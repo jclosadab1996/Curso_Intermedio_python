@@ -4,7 +4,7 @@ def increment(x):
 increment_v2 = lambda x: x + 1
 
 result = increment(10)
-print(11)
+print(result)
 
 result = increment_v2(20)
 print(result)
